@@ -1,4 +1,4 @@
-Simple TF2 RCON tool written with Source engine scripting language for Winter 2017 72hr Jam
+Simple TF2 RCON tool written with Source engine console language for Winter 2017 72hr Jam<br>
 PLEASE READ CAREFULLY BEFORE USING THIS MENU!
 
 OSControl is an RCON server administration tool that works in-game.
@@ -10,8 +10,8 @@ exec oscontrol/core/loadcontrol
 3. Copy and paste any numpad binds that you have into oscontrol/numbinds. They will work once you close the menu.
 4. In-game, copy rcon_address and rcon_password string to your console to make the script work.
 5. That's pretty much it! While being on server, press Num Delete to open menu. All menu actions are operated with numpad numbers and NumDel.
-
-NOTE: If your screen gets spammed with console text, press numdel twice to reload menu.
-Your server must have league configs installed to execute them properly
-
-This tool script was made for TF2Maps.net Winter Jam 2017
+<br>
+NOTE: If your screen gets spammed with console text, press numdel twice to reload menu.<br>
+Your server must have league configs installed to execute them properly.<br>
+<br>
+This tool script was made for TF2Maps.net Winter Jam 2017<br>
